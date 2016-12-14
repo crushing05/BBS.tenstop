@@ -17,7 +17,7 @@
 ##'   use a different path).
 ##' @rdname bbs_tenstop
 ##' @export
-get_bbs10 <- function(version=NULL, path=NULL) {
+get_BBS10 <- function(version=NULL, path=NULL) {
   datastorr::github_release_get(bbs_info(path), version)
 }
 
