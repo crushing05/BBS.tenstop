@@ -1,0 +1,4 @@
+﻿{
+    "filename": "bbs_tenstop.rds",
+    "read": "base::readRDS"
+}
