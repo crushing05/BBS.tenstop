@@ -1,7 +1,7 @@
 Package: BBS.tenstop
 Type: Package
 Title: Retrieve raw BBS 10-stop data
-Version: 0.1.0
+Version: 2016.1.0
 Author: Clark Rushing
 Maintainer: Clark Rushing <crushing@usgs.gov>
 Description: Retrieves the raw 1966-present BBS 10-stop data for all species.
